@@ -1,11 +1,16 @@
 _repo: The-Rhizoid-Kill_63891
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63891-h/images/cover.jpg
 creator:
   author:
     agent_name: Bradley, Jack (Science fiction author)
     gutenberg_agent_id: '52652'
     url: http://www.gutenberg.org/2009/agents/52652
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63891#The-Rhizoid-Kill
 gutenberg_issued: '2020-11-26'
 gutenberg_type: Text
 identifiers:
